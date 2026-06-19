@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pulisci Memoria</string>
+    <string name="accessibility_description">Naviga automaticamente in Device Care e pulisce la memoria</string>
+</resources>
