@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
 
         val packages = listOf(
+            Pair("com.samsung.android.sm", "com.samsung.android.sm.score.ui.scoreboardactivity"),
             Pair("com.samsung.android.lool", "com.samsung.android.lool.DeviceCareActivity"),
             Pair("com.samsung.android.sm", "com.samsung.android.sm.ui.cstyleboard.DeviceCareDashBoardActivity")
         )
